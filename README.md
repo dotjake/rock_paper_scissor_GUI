@@ -1,0 +1,1 @@
+This is the rock paper scissor project from the odin project, but with GUI( eg buttons to control instead of console)
